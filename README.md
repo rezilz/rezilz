@@ -25,7 +25,7 @@
 > BTEC Level 3 Certiﬁcate in Information Technology. 
 ````
 - My first website 😳 : [First-Website](https://rezilz.github.io/First-Website/).
-- I can use: `.js`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.py`, `.sql`, etc.
+- I can use: `.js`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.py`, `.sql`.
 - I'm currently looking for opportunities. I love to learn and try contribute in any and every possible way.
 - During the chilling time, I love to listen to pieces of music and watching animes.
 
