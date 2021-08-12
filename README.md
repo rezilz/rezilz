@@ -28,12 +28,16 @@
 - I use daily: `.js`, `.html`, `.css`, `.svg`, `.png`, `.json`, `.py`, `.sql`, etc.
 - I'm currently looking for opportunities. I love to learn and try contribute in any and every possible way.
 - During the chilling time, I love to listen to pieces of music and watching animes.
+
+### Stats:
 <a href="https://github.com/rezilz">
   <img src="https://img.shields.io/github/followers/rezilz">
 </a>
 <a href="https://github.com/rezilz">
    <img src="https://komarev.com/ghpvc/?username=rezilz">
+</a><br/>
+<a href="https://github.com/rezilz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezilz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezilz&theme=buefy&layout=compact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-<br/>
-Stats:<p></p>
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezilz&langs_count=10&theme=tokyonight&layout=compact" alt="rezilz :: Top Langs" /></p>
+
