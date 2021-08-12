@@ -21,7 +21,7 @@
 
 ### I'm Khetsophon Sukpaiboonwat.
 ````bash
-> A Information Engineering Student From KMITL, Thailand. 
+> A Information Engineering Student from KMITL, Thailand. 
 > BTEC Level 3 Certiﬁcate in Information Technology. 
 ````
 - My first website 😳 : [First-Website](https://rezilz.github.io/First-Website/).
