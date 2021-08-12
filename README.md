@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rezilz or Khetsophon Sukpaiboonwat
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 📫 How to reach me via my email.
+- 📫 How to reach me via my email: khetsophon.suk@gmail.com
 
 <!---
 rezilz/rezilz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
