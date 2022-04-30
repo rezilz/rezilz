@@ -3,6 +3,9 @@
 <a href="https://www.facebook.com/rrezilz/">
   <img align="left" alt="Khetsophon's Facebook" width="22px" src="https://img.icons8.com/fluency/48/000000/facebook.png" />
 </a>
+<a href="https://www.instagram.com/rrezils/">
+  <img align="left" alt="Khetsophon's IG" width="22px" src="https://img.icons8.com/color-glass/344/instagram-new.png" />
+</a>
 <a href="mailto: khetsophon.suk@gmail.com">
   <img align="left" alt="Khetsophon's Email" width="22px" src="https://img.icons8.com/office/16/000000/send-mass-email.png" />
 </a>
