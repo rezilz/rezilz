@@ -24,7 +24,7 @@
 > A Information Engineering Student from KMITL, Thailand. 
 > BTEC Level 3 Certiﬁcate in Information Technology. 
 ````
-- My first website 😳 : [First-Website](https://rezilz.github.io/First-Website/).
+- My first website 😳 (University's Assignment): [First-Website](https://rezilz.github.io/First-Website/).
 - I can work with: `.bash`,`.js`, `.html`, `.css`, `.py`, `.sql`, `.c`, `.java`, `.r`, `.xlsx`, `.xd`.
 - I'm currently looking for opportunities. I love to learn and try contribute in any and every possible way.
 - I'm presently studying statistics and data-related topics in greater depth.
