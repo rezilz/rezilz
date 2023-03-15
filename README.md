@@ -1,12 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ![](https://komarev.com/ghpvc/?username=rrezilz&label=Profile+views&color=7780fd)
-<a href="https://www.facebook.com/rrezilz/">
-  <img align="left" alt="Khetsophon's Facebook" width="22px" src="https://img.icons8.com/fluency/48/000000/facebook.png" />
-</a>
-<a href="https://www.instagram.com/rrezils/">
-  <img align="left" alt="Khetsophon's IG" width="22px" src="https://img.icons8.com/color-glass/344/instagram-new.png" />
-</a>
 <a href="mailto: khetsophon.suk@gmail.com">
   <img align="left" alt="Khetsophon's Email" width="22px" src="https://img.icons8.com/office/16/000000/send-mass-email.png" />
 </a>
@@ -23,6 +17,7 @@
 <img align="right" width= "385px" alt="GIF" src="https://c.tenor.com/bfnPEuMuOFIAAAAC/naruto-yay.gif" />
 
 ### I'm Khetsophon Sukpaiboonwat.
+
 ````bash
 > A Information Engineering Student from KMITL, Thailand. 
 > BTEC Level 3 Certiﬁcate in Information Technology. 
