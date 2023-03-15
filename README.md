@@ -44,4 +44,4 @@
 
 ### Mood:
 
-[![spotify-github-profile](https://spotify-github-profile-git-master-rezilz.vercel.app/api/view?uid=22uvpvckyrpvresappf77uxui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=7780fd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22uvpvckyrpvresappf77uxui&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile-git-master-rezilz.vercel.app/api/view?uid=22uvpvckyrpvresappf77uxui&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=7780fd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22uvpvckyrpvresappf77uxui&redirect=true)
