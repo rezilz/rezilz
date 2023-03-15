@@ -1,5 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+![](https://komarev.com/ghpvc/?username=rrezilz&label=Profile+views&color=7780fd)
 <a href="https://www.facebook.com/rrezilz/">
   <img align="left" alt="Khetsophon's Facebook" width="22px" src="https://img.icons8.com/fluency/48/000000/facebook.png" />
 </a>
@@ -15,8 +16,10 @@
 <a href="https://myanimelist.net/animelist/rezilz?status=7&order=4&order2=0">
   <img align="left" alt="Khetsophon's MAL" width="22px" src="https://pbs.twimg.com/profile_images/1190380284295950339/Py6XnxvH_400x400.jpg" />
 </a>
+<a href="https://www.linkedin.com/in/khetsophon-suk/">
+  <img align="left" alt="Khetsophon's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+</a>
 
-<br />
 <img align="right" width= "385px" alt="GIF" src="https://c.tenor.com/bfnPEuMuOFIAAAAC/naruto-yay.gif" />
 
 ### I'm Khetsophon Sukpaiboonwat.
@@ -31,15 +34,22 @@
 - During the chilling time, I love to listen to pieces of music and watching animes.
 
 ### Stats:
-<a href="https://github.com/rezilz">
+
+<!-- <a href="https://github.com/rezilz">
   <img src="https://img.shields.io/github/followers/rezilz">
 </a>
 <a href="https://github.com/rezilz">
    <img src="https://komarev.com/ghpvc/?username=rezilz">
-</a><br/>
-<a href="https://github.com/rezilz">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=rezilz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezilz&theme=buefy&layout=compact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a><br/> -->
+
+
+<table>
+<a href="https://github.com/rezilz"> 
+<tr>
+<td><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezilz&theme=buefy&layout=compact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> </td>
+<td><img height="170em" src="https://github-readme-stats.vercel.app/api?username=rezilz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> </td>
+</tr>
+</table>
 </a>
 
 ### Mood:
