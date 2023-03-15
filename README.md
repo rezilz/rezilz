@@ -25,7 +25,7 @@
 > BTEC Level 3 Certiﬁcate in Information Technology. 
 ````
 - My first website 😳 (University's Assignment): [First-Website](https://rezilz.github.io/First-Website/).
-- I can work with: `.bash`,`.js`, `.html`, `.css`, `.py`, `.sql`, `.c`, `.java`, `.r`, `.xlsx`, `.xd`.
+- I can work with: `.bash`,`.js`, `.html`, `.css`, `.jsx`, `.py`, `.sql`, `.c`, `.cpp`, `.java`, `.r`, `.xlsx`, `.xd`.
 - I'm currently looking for opportunities. I love to learn and try contribute in any and every possible way.
 - I'm presently studying statistics and data-related topics in greater depth.
 - During the chilling time, I love to listen to pieces of music and watching animes.
@@ -42,6 +42,7 @@
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezilz&theme=buefy&layout=compact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+### Vibes:
 
 
 [![spotify-github-profile](https://spotify-github-profile-git-master-rezilz.vercel.app/api/view?uid=22uvpvckyrpvresappf77uxui&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22uvpvckyrpvresappf77uxui&redirect=true)
